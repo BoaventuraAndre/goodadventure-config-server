@@ -1,0 +1,1 @@
+# goodadventure-config-server
